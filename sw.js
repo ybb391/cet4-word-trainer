@@ -1,8 +1,9 @@
-const CACHE_NAME = 'cet4-vocabulary-v1';
+const CACHE_NAME = 'cet4-vocabulary-v3';
 const APP_FILES = [
   './',
   './index.html',
   './manifest.webmanifest',
+  './cloud-config.json',
   './icon-192.png',
   './icon-512.png',
 ];
